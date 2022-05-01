@@ -39,7 +39,7 @@ header {
 
 main {
     width: 60vw;
-    margin: 5rem 5rem 0 10rem;
+    margin: 7rem 5rem 0 10rem;
 }
 
 .text {
@@ -70,7 +70,7 @@ section {
     height: 50px;
     width: 50%;
     position: relative;
-    padding-bottom: 4rem;
+    
 }
 
 input {
