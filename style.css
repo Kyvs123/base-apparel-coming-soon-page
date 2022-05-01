@@ -84,6 +84,7 @@ input {
     border-radius: 27px;
     border: solid 2px hsl(0, 6%, 24%);
     filter: opacity(30%);
+    outline: none;
 }
 
 button {
@@ -126,7 +127,7 @@ button:active {
     }
 
     .main-img {
-        height: 100vh;
+        height: 100%;
         width: 40vw;
         object-fit: cover;
         object-position: top;
